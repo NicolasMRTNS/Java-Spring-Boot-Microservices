@@ -4,3 +4,6 @@
 [submodule "order-service"]
 	path = order-service
 	url = git@github.com:NicolasMRTNS/microservices-order-service.git
+[submodule "microservices-order-service"]
+	path = microservices-order-service
+	url = git@github.com:NicolasMRTNS/microservices-order-service.git
